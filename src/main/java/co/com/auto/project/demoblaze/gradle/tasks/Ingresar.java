@@ -15,8 +15,9 @@ public class Ingresar implements Task {
     @Override
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(Click.on(PaginaDemoblaze.BTN_LOGIN1),
-                Enter.theValue("Matias7").into(PaginaDemoblaze.TXT_USUARIO_ING),
+                Enter.theValue("Userr4").into(PaginaDemoblaze.TXT_USUARIO_ING),
                 Enter.theValue("123456").into(PaginaDemoblaze.TXT_CLAVE_ING),
+
                 Click.on(PaginaDemoblaze.BTN_LOGIN));
     }
 }

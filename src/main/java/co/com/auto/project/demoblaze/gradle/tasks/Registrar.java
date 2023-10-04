@@ -16,7 +16,7 @@ public class Registrar implements Task {
     @Override
     public <T extends Actor> void performAs(T actor) {
                 actor.attemptsTo(Click.on(PaginaDemoblaze.BTN_SIGNUP),
-                        Enter.theValue("Matias7").into(PaginaDemoblaze.TXT_USUARIO),
+                        Enter.theValue("Userr4").into(PaginaDemoblaze.TXT_USUARIO),
                 Enter.theValue("123456").into(PaginaDemoblaze.TXT_CLAVE),
                 Click.on(PaginaDemoblaze.BTN_SIGN_UP));
 

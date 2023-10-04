@@ -15,7 +15,7 @@ public class PaginaDemoblaze extends PageObject {
     public static final Target TXT_USUARIO_ING = Target.the("Ingresar Usuario Login").located(By.xpath("//input[@id='loginusername']"));
     public static final Target TXT_CLAVE_ING = Target.the("Ingresar Clave Login").located(By.xpath("//input[@id='loginpassword']"));
     public static final Target BTN_LOGIN = Target.the("Boton Login2").located(By.xpath("//button[contains(text(), 'Log in')]"));
-    public static final Target LBL_WELCOME = Target.the("Verificar Ingreso").located(By.xpath("//a[contains(text(), 'Welcome Matias7')]"));
+    public static final Target LBL_WELCOME = Target.the("Verificar Ingreso").located(By.xpath("//a[contains(text(), 'Welcome Userr4')]"));
     public static final Target BTN_CELLPHONE = Target.the("Escoger Phone").located(By.xpath("//a[contains(text(), 'Samsung galaxy s7')]"));
     public static final Target BTN_ADDTOCART = Target.the("Agregar Phone al carrito").located(By.xpath("//a[@onclick='addToCart(4)']"));
     public static final Target BTN_HOME = Target.the("Ir a home").located(By.xpath("//a[contains(text(), 'Home ')]"));

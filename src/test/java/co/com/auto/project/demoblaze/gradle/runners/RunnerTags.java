@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(features = "src/test/resources/features",
-tags = "@UserHistory",
+tags = "@CaseDataDriven",
 glue = "co/com/auto/project/demoblaze/gradle/stepdefinitions" )
 
 public class RunnerTags {

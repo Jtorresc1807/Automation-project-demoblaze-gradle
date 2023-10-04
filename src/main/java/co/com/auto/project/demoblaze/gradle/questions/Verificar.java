@@ -11,7 +11,7 @@ public class Verificar implements Question {
 
     @Override
     public Boolean answeredBy(Actor actor) {
-        boolean compare= PaginaDemoblaze.LBL_WELCOME.resolveFor(actor).getText().equals("Welcome Matias7");
+        boolean compare= PaginaDemoblaze.LBL_WELCOME.resolveFor(actor).getText().equals("Welcome Userr4");
         return compare;
     }
 }

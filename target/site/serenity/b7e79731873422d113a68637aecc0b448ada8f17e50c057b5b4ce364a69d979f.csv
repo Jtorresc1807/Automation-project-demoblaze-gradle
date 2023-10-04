@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Register a new user on the page product store","make a purchase on the page PRODUCT STORE","SUCCESS","2023-09-30T20:12:19.305646-05:00[America/Bogota]","0.0","6.68"
+"Register a new user on the page product store and make a purchase by adding products to the cart","make a purchase on the page PRODUCT STORE","SUCCESS","2023-09-30T20:20:35.934006-05:00[America/Bogota]","0.0","5.18"

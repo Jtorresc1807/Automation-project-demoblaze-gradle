@@ -1,3 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Register a new user on the page PRODUCT STORE and make a purchase by adding products to the cart","Register on the page PRODUCT STORE","SUCCESS","2023-09-29T17:28:44.4738234-05:00[America/Bogota]","0.0","8.14"
-"Register a new user on the page PRODUCT STORE and make a purchase by adding products to the cart","make a purchase on the page PRODUCT STORE","SUCCESS","2023-09-29T17:29:05.3128575-05:00[America/Bogota]","0.0","4.76"
+"Register a new user on the page PRODUCT STORE and make a purchase by adding products to the cart","Register on the page PRODUCT STORE","SUCCESS","2023-09-29T19:40:07.238802-05:00[America/Bogota]","0.0","13.14"
+"Register a new user on the page PRODUCT STORE and make a purchase by adding products to the cart","make a purchase on the page PRODUCT STORE","SUCCESS","2023-09-29T19:40:33.911704-05:00[America/Bogota]","0.0","14.17"
+"Verify correct login on the page product store and make a purchase by adding prod<ucts to the cart","Verify correct login","SUCCESS","2023-10-03T20:30:16.0878839-05:00[America/Bogota]","0.0","19.74"
